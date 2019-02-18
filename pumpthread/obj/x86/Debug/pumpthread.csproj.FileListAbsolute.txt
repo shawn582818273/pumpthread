@@ -1,0 +1,12 @@
+/Users/pengfeihong/Projects/pumpthread/pumpthread/bin/Debug/pumpthread.exe
+/Users/pengfeihong/Projects/pumpthread/pumpthread/bin/Debug/pumpthread.pdb
+/Users/pengfeihong/Projects/pumpthread/pumpthread/obj/x86/Debug/pumpthread.csprojAssemblyReference.cache
+/Users/pengfeihong/Projects/pumpthread/pumpthread/obj/x86/Debug/pumpthread.csproj.CoreCompileInputs.cache
+/Users/pengfeihong/Projects/pumpthread/pumpthread/obj/x86/Debug/pumpthread.exe
+/Users/pengfeihong/Projects/pumpthread/pumpthread/obj/x86/Debug/pumpthread.pdb
+/Users/pengfeihong/Desktop/personal/pumpthread/pumpthread/bin/Debug/pumpthread.exe
+/Users/pengfeihong/Desktop/personal/pumpthread/pumpthread/bin/Debug/pumpthread.pdb
+/Users/pengfeihong/Desktop/personal/pumpthread/pumpthread/obj/x86/Debug/pumpthread.csprojAssemblyReference.cache
+/Users/pengfeihong/Desktop/personal/pumpthread/pumpthread/obj/x86/Debug/pumpthread.csproj.CoreCompileInputs.cache
+/Users/pengfeihong/Desktop/personal/pumpthread/pumpthread/obj/x86/Debug/pumpthread.exe
+/Users/pengfeihong/Desktop/personal/pumpthread/pumpthread/obj/x86/Debug/pumpthread.pdb
